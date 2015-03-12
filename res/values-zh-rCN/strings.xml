@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">北海白话词典</string>
+    <string name="app_title">北海市区白话词典</string>
+    <string name="action_settings">设置</string>
+    <string name="about_authors">关于作者</string>
+    <string name="main_search_hint">请输入搜索关键词</string>
+    <string name="search">搜索</string>
+    
+    <string name="null_hint">输入为空，请重试 ^_^</string>
+    <string name="invalid_hint">非纯拼音或纯汉语。无效输入  !^_^</string>
+    <string name="null_item_hint">此词条未收录 ^_^</string>
+    
+    <string name="des_pinyin">拼音：</string>
+    <string name="des_hanzi">汉字：</string>
+    <string name="des_description">解释：</string>
+    <string name="des_example">例句：</string>
+    <string name="item_null">无</string>
+</resources>

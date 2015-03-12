@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">北海白話詞典</string>
+    <string name="app_title">北海市區白話詞典</string>
+    <string name="action_settings">設置</string>
+    <string name="about_authors">關於作者</string>
+    <string name="main_search_hint">塡啲keyword試下</string>
+    <string name="search">檢索</string>
+    
+    <string name="null_hint">乜都塡冇，試過啦  ^_^</string>
+    <string name="invalid_hint">要純拼音或純漢字。塡咗啲乜鬼啊你  !^_^</string>
+    <string name="null_item_hint">呢個詞冇收錄喔  ^_^</string>
+    
+    <string name="des_pinyin">拼音：</string>
+    <string name="des_hanzi">漢字：</string>
+    <string name="des_description">解釋：</string>
+    <string name="des_example">句例：</string>
+    <string name="item_null">無</string>
+
+</resources>

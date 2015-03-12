@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Beihainese Dict</string>
+    <string name="app_title">Dictionary for Yue Chinese Dialect of Beihai Uptown District</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_authors">About authors</string>
+    <string name="main_search_hint">Please input something</string>
+    <string name="search">Search</string>
+    
+    
+    <string name="null_hint">Nothing input. Retry plz ^_^</string>
+    <string name="invalid_hint">Invalid Input; Pure Pinyin or Hanzi expected  ^_^</string>
+    <string name="null_item_hint">This word not included ^_^</string>
+    
+    <string name="des_pinyin">Pinyin:</string>
+    <string name="des_hanzi">Hanzi:</string>
+    <string name="des_description">Description:</string>
+    <string name="des_example">Example:</string>
+    <string name="item_null">none</string>
+
+</resources>
