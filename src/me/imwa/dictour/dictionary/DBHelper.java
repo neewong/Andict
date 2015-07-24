@@ -1,4 +1,4 @@
-package me.imwa.dictour;
+package me.imwa.dictour.dictionary;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

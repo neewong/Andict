@@ -1,4 +1,4 @@
-package me.imwa.dictour;
+package me.imwa.dictour.editor;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -12,7 +12,7 @@ public class Validator {
 	private static final int IS_INVALID_INPUT= 0;
 	public Context context;
 	
-	Validator( Context context){
+	public Validator( Context context){
 		this.context = context;
 	}
 

@@ -1,4 +1,7 @@
-package me.imwa.dictour;
+package me.imwa.dictour.presentator;
+
+import me.imwa.dictour.dictionary.DictItem;
+import me.imwa.dictour.R;
 
 import java.util.ArrayList;
 import java.util.Iterator;

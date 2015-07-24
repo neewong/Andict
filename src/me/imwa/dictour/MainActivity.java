@@ -1,5 +1,7 @@
 package me.imwa.dictour;
 
+import me.imwa.dictour.dictionary.*;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 

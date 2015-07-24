@@ -1,4 +1,4 @@
-package me.imwa.dictour;
+package me.imwa.dictour.dictionary;
 
 public class DictItem {
 	public String Pinyin;

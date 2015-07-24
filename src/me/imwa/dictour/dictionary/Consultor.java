@@ -1,4 +1,7 @@
-package me.imwa.dictour;
+package me.imwa.dictour.dictionary;
+
+import me.imwa.dictour.R;
+import me.imwa.dictour.editor.Validator;
 
 import java.util.ArrayList;
 
