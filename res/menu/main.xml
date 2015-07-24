@@ -12,5 +12,10 @@
         android:orderInCategory="100"
         android:showAsAction="never"
         android:title="@string/about_authors"/>
+    <item
+        android:id="@+id/text_test"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/text_test"/>
 
 </menu>

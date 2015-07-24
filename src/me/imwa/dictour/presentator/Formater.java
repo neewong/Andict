@@ -16,7 +16,7 @@ public class Formater {
 	private static final String TAIL = "</body></html>";
 	private Context context;
 	
-	Formater(Context context){
+	public Formater(Context context){
 		this.context = context;
 	}
 	public String toHTML(ArrayList<DictItem> dis){

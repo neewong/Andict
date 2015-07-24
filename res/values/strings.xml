@@ -8,7 +8,6 @@
     <string name="main_search_hint">Please input something</string>
     <string name="search">Search</string>
     
-    
     <string name="null_hint">Nothing input. Retry plz ^_^</string>
     <string name="invalid_hint">Invalid Input; Pure Pinyin or Hanzi expected  ^_^</string>
     <string name="null_item_hint">This word not included ^_^</string>
@@ -18,5 +17,9 @@
     <string name="des_description">Description:</string>
     <string name="des_example">Example:</string>
     <string name="item_null">none</string>
+    
+    <string name="text_test">Text test</string>
+    <string name="about_author">About author</string>
+    <string name="manju_text">ᠮᠠᠨᠵᡠ</string>
 
 </resources>
